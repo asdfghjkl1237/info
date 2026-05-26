@@ -9,3 +9,7 @@
 # and there do this:
 # [2]> pip install ipykernel
 # [3]> python3 -m ipykernel install --user --name={{ name_of_the_env }}
+
+
+
+# !! also need to be installed into venv from where launched jupyter
